@@ -10,6 +10,7 @@ I started my journey in tech back in High School while taking a post secondary I
 
 *   🌍  I'm based in Atlanta
 *   ✉️  You can contact me at [shakir.tamar@gmail.com](mailto:shakir.tamar@gmail.com)
+*   LinkedIn: https://www.linkedin.com/in/shakir-tamar-7b0472204/
 *   🧠  I'm learning JavaScript and Python
 *   🤝  I'm open to collaborating on Projects, websites, apps and video games
 *   ⚡  I have a Audio production and Event service business that includes DJ services(unconventional), Audio Engineering(Live Sound & Studio), Event Production and Design, and speaker rental<a href="https://www.twitter.com/ShakirTamar" target="_blank" rel="noreferrer"><img
