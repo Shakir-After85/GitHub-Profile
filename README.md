@@ -30,7 +30,7 @@ I started my journey in tech back in High School while taking a post secondary I
  Socials
 <p align="left">
 <!-- <a href="https://www.github.com/Shakir-After85" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
-  <a href="https://www.linkedin.com/in/shakir-tamar-7b0472204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/shakir-tamar7619/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  <a href="https://www.twitter.com/ShakirTamar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 Badges
