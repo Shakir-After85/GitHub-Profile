@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shakir Tamar
 ====================================================================================================================================
 
-Software Developer
+Cyber Security/Software Engineer
 -----------------
 
-I started my journey in tech back in High School while taking a post secondary IT program that focused on building and repairing computer hardware. I went to the University of Toledo for Computer Science but ended up dropping out do to discouraging moments with teachers and too much partying. I then switched my focus to my DJ and event business and went to school for Recording Arts and Technology. From there is when I decided to try my hand in learning how to program. This journey has been about 3-4 years for me and I started off all over the place, trying to learn multiple languages at once, watching too many videos and not actually writing code. Now I am currently more focused and structured with my learning process and looking forward to continue learning more and growing in this field. I am currently familiar with HTML, CSS, JavaScript, React, BootStrap and Python. My goal is to continue to learn and build my skills as a Software Engineer/Developer and a technologist in general
+I started my journey in tech back in High School while taking a post-secondary IT program that focused on building and repairing computer hardware. I went to the University of Toledo for Computer Science but ended up pivoting in a different direction at the time. I switched my focus to my DJ and event business and went to school for Recording Arts and Technology. From there is when I decided to try learning how to program. This journey has been about 3-4 years for me and I started off all over the place, trying to learn multiple languages at once, watching too many videos, and not actually writing code. I am currently more focused and structured with my learning process and looking forward to continuing to learn more and growing in the field of IT. I am currently familiar with HTML, CSS, JavaScript, React, BootStrap, and Python. My goal is to continue to learn and build my skills as a Software Engineer/Developer and also in the area of Cyber Security. 
 
 *   🌍  I'm based in Atlanta
 *   ✉️  You can contact me at [shakir.tamar@gmail.com](mailto:shakir.tamar@gmail.com)
 *   🧠  I'm learning JavaScript and Python
-*   🤝  I'm open to collaborating on Projects, websites, apps and video games
-*   ⚡  I have a Audio production and Event service business that includes DJ services(unconventional), Audio Engineering(Live Sound & Studio), Event Production and Design, and speaker rental
+*   🤝  I'm open to collaborating on Projects, websites, apps, and video games
+*   ⚡  I have an Audio production and Event service business that includes DJ services(unconventional), Audio Engineering(Live Sound & Studio), Event Production and Design, and speaker rental
 
 <a href="https://www.twitter.com/ShakirTamar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ShakirTamar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
